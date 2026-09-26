@@ -5,6 +5,9 @@
 #     counter += 1
     
     
-    
-for i in [5, 1, 2]:
-    print('hi')
+# for i in range(3):
+#     print('hi')
+
+
+
+# print('hi\n' * 3, end='')
