@@ -9,7 +9,7 @@ def get_int():
         try:
             return int(input('what is x? '))
         except ValueError:
-            print('x is not an integer')
+            pass
 
     
 
