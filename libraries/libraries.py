@@ -8,9 +8,15 @@
 # print(number)
 # --------------------------------------------------------
 
-import random 
-cards = ['ace', 'queen', 'king']
-random.shuffle(cards)
+# import random 
+# cards = ['ace', 'queen', 'king']
+# random.shuffle(cards)
 
-for card in cards:
-    print(card)
+# for card in cards:
+#     print(card)
+
+#---------------------------------------------------------
+
+import statistics
+values = [1, 3, 5, 2, 7, 8, 12]
+print(statistics.mean(values))
